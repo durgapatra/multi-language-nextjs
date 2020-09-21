@@ -8,6 +8,7 @@ module.exports = new NextI18Next({
   defaultNS: 'common',
   localeSubpaths,
   localePath: path.resolve('./public/static/locales'),
+  localeStructure:'{{lng}}/{{ns}}',
   detection: {
     lookupCookie: 'ln-language',
     order: ['cookie', 'querystring', 'localStorage', 'path', 'subdomain'],
