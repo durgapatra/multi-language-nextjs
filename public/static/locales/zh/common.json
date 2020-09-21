@@ -1,0 +1,9 @@
+{
+  "h1": "Jednostavan primjer",
+  "change-locale": "Promijenite jezik",
+  "to-second-page": "Na drugu stranicu",
+  "error-with-status": "Na poslužitelju se dogodila pogreška {{statusCode}}",
+  "error-without-status": "Došlo je do pogreške na poslužitelju",
+  "description":"opis",
+  "homeTitle":"dobrodošli na početnu stranicu"
+}

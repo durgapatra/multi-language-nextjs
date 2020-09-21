@@ -1,0 +1,9 @@
+{
+  "h1": "簡単な例",
+  "change-locale": "ロケールを変更",
+  "to-second-page": "2ページ目へ",
+  "error-with-status": "サーバーで{{statusCode}}エラーが発生しました",
+  "error-without-status": "サーバーでエラーが発生しました",
+  "description":"解説",
+  "homeTitle":"ホームページへようこそ"
+}
